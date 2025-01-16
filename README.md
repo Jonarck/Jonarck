@@ -7,31 +7,20 @@
 ![My Research Pathway Now in 2025](https://github.com/Jonarck/Jonarck/blob/main/Research%20Pathway.png)
 
 
-## My vision for future research:
+## My Vision for Future Research:
 In life's journey, I want to explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
 - **Data (Construction of Architecture and Urban Big Data):**
   - Representation Learning:
-    - Graphs
+    - Graphs Data
     - Spatial and Temporal Data
-    - Multimodal
+    - Multimodal Data
   - Dataset & Annotation & Benchmark
 - **Models (Development of Foundational AI Systems for Urban and Architecture):**
   - Foundation Models:
-    - Pre-training
-    - 2D & 3D Generation
-  - Urban & Social Computing
+    - Pre-training Tasks
+    - 2D & 3D Generation Tasks
+    - Urban & Social Computing Tasks
 - **Users (Development of AI-assisted Design Tools for Architects and Urban planners):**
   - Human-AI Interaction:
     - Creative Aids
     - Efficiency Aids
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
