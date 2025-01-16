@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm JIANG Zhuoyang
-- 🔭 I am currently an intern at MSR AI4Science.
+- 🔭 I am currently an intern at Microsoft Research AI for Science.
 - 🌱 I am currently a student in the MSc DCAI program at HKUST(GZ). Before that, I was a BEng in the School of AI at Southeast University (SEU).
 - 🤔 My research interests target the intelligent upgrading of architecture and urban planning disciplines by researching on data-centric, AI-driven and human-oriented Foundation Models in the fields of AI4Science, urban computing, and human-computer interaction.
 
