@@ -15,8 +15,8 @@ In life's journey, I want to **explore the possibilities of technological innova
 - **Models (Development of Foundational AI Systems for Urban and Architecture):**
   - Foundation Models:
     - Pre-training Tasks
-    - 2D & 3D Generation Tasks
     - Urban & Social Computing Tasks
+    - Graph & 2D & 3D Generation Tasks
 - **Users (Development of AI-assisted Design Tools for Architects and Urban planners):**
   - Human-AI Interaction:
     - Creative Aids
