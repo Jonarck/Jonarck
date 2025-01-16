@@ -5,11 +5,20 @@
 
 
 
-Explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
+In life's journey, I want to explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
 
-- Data (Building Building Big Data): [Representation Learning] - {Graphs} - {Spatial and Temporal Data} - {Multimodal} / [Dataset & Benchmark].
-- Models (developing architectural AGI systems): [Cornerstone Models] - {Pre-training} - {2D & 3D Generation} - {Urban & Social Computing}
-- Users (Development of AI-assisted architectural design tools): [Human Intelligence Interaction] - {Creative Aids} - {Efficiency Aids}
+- Data (Building Building Big Data):
+  - Representation Learning: Graphs - Spatial and Temporal Data - Multimodal
+  - Dataset & Annotation & Benchmark
+- Models (developing architectural AGI systems)
+  - Foundation Models:
+    - Pre-training
+    - 2D & 3D Generation
+    - Urban & Social Computing
+- Users (Development of AI-assisted architectural design tools):
+  - Human-AI Interaction:
+    - Creative Aids
+    - Efficiency Aids
 
 <!--
 - 🔭 I’m currently working on ...
