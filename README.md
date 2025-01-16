@@ -3,20 +3,24 @@
 - 🌱 I am currently a student in the MSc DCAI program at HKUST(GZ). Before that, I was a BEng in the School of AI at Southeast University (SEU).
 - 🤔 My research interests target the intelligent upgrading of architecture and urban planning disciplines by researching on data-centric, AI-driven and human-oriented Foundation Models in the fields of AI4Science, urban computing, and human-computer interaction.
 
-
+## My Research Pathway Now in 2025:
 ![My Research Pathway Now in 2025](https://github.com/Jonarck/Jonarck/blob/main/Research%20Pathway.png)
 
-In life's journey, I want to explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
 
-- Data (Building Building Big Data):
-  - Representation Learning: Graphs - Spatial and Temporal Data - Multimodal
+## My vision for future research:
+In life's journey, I want to explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
+- **Data (Construction of Architecture and Urban Big Data):**
+  - Representation Learning:
+    - Graphs
+    - Spatial and Temporal Data
+    - Multimodal
   - Dataset & Annotation & Benchmark
-- Models (developing architectural AGI systems)
+- **Models (Development of Foundational AI Systems for Urban and Architecture):**
   - Foundation Models:
     - Pre-training
     - 2D & 3D Generation
-    - Urban & Social Computing
-- Users (Development of AI-assisted architectural design tools):
+  - Urban & Social Computing
+- **Users (Development of AI-assisted Design Tools for Architects and Urban planners):**
   - Human-AI Interaction:
     - Creative Aids
     - Efficiency Aids
