@@ -4,6 +4,7 @@
 - 🤔 My research interests target the intelligent upgrading of architecture and urban planning disciplines by researching on data-centric, AI-driven and human-oriented Foundation Models in the fields of AI4Science, urban computing, and human-computer interaction.
 
 
+![My Research Pathway Now in 2025](https://github.com/Jonarck/Jonarck/blob/main/Research%20Pathway.png)
 
 In life's journey, I want to explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
 
