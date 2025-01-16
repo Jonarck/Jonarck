@@ -5,7 +5,7 @@
 - 🤔 My research interests target the intelligent upgrading of architecture and urban planning disciplines by researching on data-centric, AI-driven and human-oriented Foundation Models in the fields of AI4Science, urban computing, and human-computer interaction.
 
 ## My Vision for Future Research:
-In life's journey, I want to explore the possibilities of technological innovation in design for architecture and cities from three perspectives:
+In life's journey, I want to **explore the possibilities of technological innovation in Analysis and Design for Architecture and Urban** from three perspectives:
 - **Data (Construction of Architecture and Urban Big Data):**
   - Representation Learning:
     - Graphs Data
