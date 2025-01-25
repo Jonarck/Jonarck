@@ -1,4 +1,4 @@
-## Hi there 👋 I'm JIANG Zhuoyang (蒋 卓洋)
+## Hi there 👋 I'm JIANG Zhuoyang
 - 🔭 I am currently an intern at Microsoft Research AI for Science.
 - 🌲 I am currently a student in the MSc DCAI program at The Hong Kong University of Science and Technology, Guangzhou (HKUST gz). 
 - 🌱 I earned my BEng in AI from Southeast University, Nanjing (SEU).
