@@ -23,4 +23,4 @@ In life's journey, I want to **explore the possibilities of technological innova
     - Efficiency Aids
 
 ## My Research Pathway Now in 2025:
-![My Research Pathway Now in 2025](https://github.com/Jonarck/Jonarck/blob/main/Research%20Pathway.png)
+![My Research Pathway Now in 2025](https://github.com/Jonarck/Jonarck/blob/main/Research%20Pathway.jpg)
