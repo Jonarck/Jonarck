@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm JIANG Zhuoyang
 - 🔭 I am currently an intern at Microsoft Research AI for Science.
-- 🌱 I am currently a student in the MSc DCAI program at HKUST(GZ). 
-      Before that, I earned a BEng in AI from Southeast University (SEU).
-- 🤔 My research interests target the intelligent upgrading of architecture and urban planning disciplines by researching on data-centric, AI-driven and human-oriented Foundation Models in the fields of AI4Science, urban computing, and human-computer interaction.
+- 🌲 I am currently a student in the MSc DCAI program at The Hong Kong University of Science and Technology, Guangzhou (HKUST gz). 
+- 🌱 I earned my BEng in AI from Southeast University, Nanjing (SEU).
+- 🤔 My research interests target the intelligent upgrading of **Architecture** and **Urban Planning** disciplines by researching on **<font color=CadetBlue>Data-centric</font>**, **<font color=DarkSalmon>AI-driven</font>** and **<font color=DarkGreen>human-oriented/font>** Foundation Models in the fields of AI4Science, urban/social computing, and human-computer interaction.
 
 ## My Vision for Future Research:
 In life's journey, I want to **explore the possibilities of technological innovation in Analysis and Design for Architecture and Urban** from three perspectives:
