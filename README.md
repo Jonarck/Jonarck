@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm JIANG Zhuoyang
 - 🔭 I am currently an Research Assitant at **CityMind Lab, HKUST(GZ)** (Nov. 2025 - Present).
-- 🪵 I served as a Research Intern at **Microsoft Research AI for Science** (Aug. 2024 - Jul. 2025) and the **Zhongguancun Academy** (Aug. 2025 - Nov. 2025).
+- 🪵 I served as a Research Intern at **Microsoft Research AI for Science** (Aug. 2024 - Jul. 2025) and **Zhongguancun Academy** (Aug. 2025 - Nov. 2025).
 - 🌲 I earned my MSc in DCAI from **HKUST(GZ)** (Sep. 2023 - Jul. 2025). 
 - 🌱 I earned my BEng in AI from **Southeast University** (Sep. 2019 - Jun. 2023).
 - 🤔 My research interests target the intelligent upgrading of **Architecture** and **Urban Planning** disciplines by researching on <font color=CadetBlue>**Data-centric**</font>, <font color=DarkSalmon>**AI-driven**</font> and <font color=DarkGreen>**Human-oriented**</font> Foundation Models in the fields of AI4Science, urban/social computing, and human-computer interaction.
