@@ -25,11 +25,3 @@ In life's journey, I want to **explore the possibilities of technological innova
 
 ## My Research Pathway Now in 2026:
 ![My Research Pathway Now in 2025](https://github.com/Jonarck/Jonarck/blob/main/Research_Summary.png)
-
-
-
-</td><td valign="top" width="100%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonarck&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
